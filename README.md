@@ -22,7 +22,7 @@
 ## 💡 About Me
 
 - 🎨 College dropout (Art Degree) turned developer—5 years in the game!
-- 🏳️‍⚧️ 27-year-old trans woman (she/her • they/them)
+- 🏳️‍⚧️ 28-year-old trans woman (she/her • they/them)
 - 💻 Fan of C++, Python, Linux & Webdev
 - 🎮 Gamer | 🎹 Piano learner | 🌏 Multilingual: basic knowledge of 12 languages, extended in 4, fluent in 2
 
